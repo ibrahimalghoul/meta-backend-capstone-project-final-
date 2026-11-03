@@ -60,6 +60,7 @@ http://127.0.0.1:8000/api/booking/tables/{bookingId}
 
 ## Peer review 🧐
 
+
 ▷ I've got a couple of folks looking over my code, and before they grade it, they're checking out things like:
 
 - Did I use Django to dish out those web pages?
